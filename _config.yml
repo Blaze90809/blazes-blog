@@ -16,11 +16,12 @@
 title: Blaze's Blog
 email: blaze.fugina@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am Blaze Fugina, a former journalist turned full stack software developer. I specialize in developing sites in the MEAN stack -- MongoDB, Express, AngularJS and Node.js. Check out my posts for more about my work in software development.
+  I am Blaze Fugina, a former journalist turned full stack software developer. I specialize in developing software in the MEAN stack -- MongoDB, Express, AngularJS and Node.js. I also am experienced using SQL and jQuery. Check out my posts for more about my work in software development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blazefugina.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BlazeFugina
 github_username:  Blaze90809
+image: "https://pbs.twimg.com/profile_images/917519649843052544/gqO8UkDB.jpg"
 
 # Build settings
 markdown: kramdown
