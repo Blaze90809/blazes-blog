@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why I decided to switch careers"
-date:   2017-12-09 22:41:56 -0600
+date:   2017-12-10 22:41:56 -0600
 categories: jekyll update
 ---
 When I graduated from the University of Wisconsin-River Falls with a bachelors degree in journalism in 2011, I figured my life's career path was set. Having enjoyed writing in high school, I thought a career as a reporter was the best way to write stories that would impact people's lives on a daily basis.
