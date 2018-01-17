@@ -16,6 +16,6 @@ I was happy with what our group was able to accomplish in just three short weeks
 
 This group project was my first opportunity to work with a client, and I enjoyed the experience.
 
-The application is deployed on Heroku. Follow this link to check it out: [pitch aid][pitch-aid]
+The application is deployed on Heroku. Follow this link to check it out: [project-footprint][project-footprint]
 
-[pitch-aid]: https://polar-spire-15237.herokuapp.com/
+[project-footprint]: https://polar-spire-15237.herokuapp.com/
